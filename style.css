@@ -1,0 +1,33 @@
+html {
+    text-align: center;
+}
+
+
+
+
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+#home {
+    background-color: deepskyblue;
+}
